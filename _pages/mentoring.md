@@ -1,13 +1,13 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: mentorship
+permalink: /mentorship/
+description: Mentorship Experience
 nav: false
-display_categories: [work, fun]
+display_categories: 
 horizontal: false
 ---
-<div class="projects">
+<div class="mentorship">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
     {% for category in page.display_categories %}
