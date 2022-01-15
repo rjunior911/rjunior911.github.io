@@ -1,8 +1,8 @@
 ---
-layout: about
+layout: page
 title: schedule
-permalink: /
-description: Schedule and contact info
+permalink: /schedule/
+description: #Schedule and contact info
 nav: true
 
 profile:
