@@ -1,4 +1,8 @@
 source 'https://rubygems.org'
+
+gem 'ostruct'
+gem 'faraday-retry'
+
 group :jekyll_plugins do
     gem 'jekyll'
     gem 'jekyll-archives'
@@ -7,11 +11,9 @@ group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-github-metadata'
     gem 'jekyll-paginate-v2'
-    gem 'jekyll-responsive-image'
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-target-blank'
-    gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
